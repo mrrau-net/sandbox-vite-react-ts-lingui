@@ -1,0 +1,1 @@
+/*eslint-disable*/import type{Messages}from"@lingui/core";export const messages=JSON.parse("{\"UNWX+z\":[\"Kliknij logo Vite lub React aby dowiedzieć się więcej\"],\"q1tg53\":[\"wartość licznika to \",[\"count\"]]}")as Messages;
